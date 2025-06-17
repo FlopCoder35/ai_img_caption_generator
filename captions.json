@@ -1,57 +1,55 @@
 [
     {
         "filename": "img1.png",
-        "caption": "the view from the top of a mountain with green grass and trees on a sunny day in the mountains are",
+        "caption": "summer landscape stock photography",
         "hashtags": [
-            "#the",
-            "#view",
-            "#from",
-            "#the",
-            "#top"
+            "#summer",
+            "#landscape",
+            "#stock",
+            "#photography"
         ]
     },
     {
         "filename": "img10.png",
-        "caption": "a heart shaped tree branch with pink flowers",
+        "caption": "a bird sitting on top of a tree branch",
         "hashtags": [
             "#a",
-            "#heart",
-            "#shaped",
-            "#tree",
-            "#branch"
+            "#bird",
+            "#sitting",
+            "#on",
+            "#top"
         ]
     },
     {
         "filename": "img11.png",
-        "caption": "night scene with trees and mountains vector",
+        "caption": "a mountain landscape at night vector | price | price | price | price | price | price | price | price | price | price | price",
         "hashtags": [
-            "#night",
-            "#scene",
-            "#with",
-            "#trees",
-            "#and"
+            "#a",
+            "#mountain",
+            "#landscape",
+            "#at",
+            "#night"
         ]
     },
     {
         "filename": "img2.png",
-        "caption": "a long dock on a lake at night",
+        "caption": "a dock on a lake under a full moon",
         "hashtags": [
             "#a",
-            "#long",
             "#dock",
             "#on",
-            "#a"
+            "#a",
+            "#lake"
         ]
     },
     {
         "filename": "img3.png",
-        "caption": "an elephant standing in the middle of a field",
+        "caption": "the elephant is standing",
         "hashtags": [
-            "#an",
+            "#the",
             "#elephant",
-            "#standing",
-            "#in",
-            "#the"
+            "#is",
+            "#standing"
         ]
     },
     {
@@ -78,29 +76,29 @@
     },
     {
         "filename": "img6.png",
-        "caption": "a large body of water",
+        "caption": "the word ' trash ' is written on the water",
         "hashtags": [
-            "#a",
-            "#large",
-            "#body",
-            "#of",
-            "#water"
+            "#the",
+            "#word",
+            "#trash",
+            "#is",
+            "#written"
         ]
     },
     {
         "filename": "img7.png",
-        "caption": "the motorcycle is blue with yellow accents",
+        "caption": "a black and blue motorcycle sitting on top of a white background",
         "hashtags": [
-            "#the",
-            "#motorcycle",
-            "#is",
+            "#a",
+            "#black",
+            "#and",
             "#blue",
-            "#with"
+            "#motorcycle"
         ]
     },
     {
         "filename": "img8.png",
-        "caption": "a peacock sitting on top of a tree branch",
+        "caption": "a peacock sitting on top of a tree next to flowers",
         "hashtags": [
             "#a",
             "#peacock",
@@ -111,13 +109,13 @@
     },
     {
         "filename": "img9.png",
-        "caption": "a small child running down a sidewalk with the sun setting in the background",
+        "caption": "a little girl is running in the snow",
         "hashtags": [
             "#a",
-            "#small",
-            "#child",
-            "#running",
-            "#down"
+            "#little",
+            "#girl",
+            "#is",
+            "#running"
         ]
     }
 ]
