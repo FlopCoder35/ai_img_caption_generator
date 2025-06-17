@@ -41,30 +41,63 @@ A Python application that generates creative and descriptive captions for images
 
 ## 🚀 Getting Started
 
-### 1. Clone the project
-git clone https://github.com/yourname/image-caption-generator.git  
-cd image-caption-generator
+### 1. Clone the Project
+```bash
+git clone https://github.com/FlopCoder35/ai_img_caption_generator.git
+cd ai_img_caption_generator
+```
 
-### 2. Set up virtual environment
+### 2. Set Up Virtual Environment
 
-#### Windows:
-python -m venv venv  
+#### 🪟 On Windows
+```bash
+python -m venv venv
 venv\Scripts\activate
+```
 
-#### Linux/macOS:
-python3 -m venv venv  
+#### 🐧 On Linux/macOS
+```bash
+python3 -m venv venv
 source venv/bin/activate
+```
 
-### 3. Install dependencies
+### 3. Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 
 ### 4. 🧠 Run the Application
 
-**Start Gradio Interface**  
+#### ▶️ To start the Gradio interface:
+```bash
 python caption_generate.py
+```
 
-**Run in Batch Mode**  
+#### 📦 To run in batch mode (for multiple images):
+```bash
 python caption_generate.py --batch
+```
 
 ---
+
+## ✅ Features Covered
+
+- 📸 Image Processing & Caption Generation  
+- 🌐 Web Interface using Gradio  
+- 📂 CSV/JSON Export Support  
+- 🧾 Batch Processing Mode  
+- 📊 Performance Benchmarks  
+- 🧠 Tested on 10+ Image Variations  
+
+---
+
+## 📂 Output
+
+When you run the app:
+- 🖼️ Captioned images are displayed or saved
+- 🧾 Captions are printed on screen
+- 📁 Results can be exported as `.csv` or `.json` (batch mode)
+
+---
+
 
